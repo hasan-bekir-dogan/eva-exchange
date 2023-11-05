@@ -42,12 +42,14 @@ You can buy share.
 
     {
       "userId": 1,
-    	"shareSymbol": "USD",
-    	"quantity": 5
+      "shareSymbol": "USD",
+      "quantity": 5
     }
 
 > userId: required
+
 > shareSymbol: required
+
 > quantity: required
 
 ###### esponse (application/json) - example
@@ -80,7 +82,9 @@ You can sell share.
     }
 
 > userId: required
+
 > shareSymbol: required
+
 > quantity: required
 
 ###### Response (application/json) - example
@@ -98,7 +102,7 @@ You can sell share.
 
 #### Postman
 
-Check out the collection on below link:
+Check out the collection on link:
 [https://www.postman.com/hasanbekir/workspace/evaexchange/collection/18509734-03b80051-550c-41ea-8f57-985ad8bc2a9e?action=share&creator=18509734](https://www.postman.com/hasanbekir/workspace/evaexchange/collection/18509734-03b80051-550c-41ea-8f57-985ad8bc2a9e?action=share&creator=18509734)
 
 ##
